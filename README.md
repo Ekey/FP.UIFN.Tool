@@ -12,7 +12,7 @@ Tool for decrypt and encrypt uifn font files from game Forspoken
 ### Examples
 > FP.Fonts.Cryptor "**-d**"  "**D:\fonts\fot-newcinemaastd-d.uifn**" "**D:\fonts\fot-newcinemaastd-d.uifn.dec**"
 > 
-> FP.Fonts.Cryptor "**-e**"  "**D:\fonts\fot-newcinemaastd-d.dec**" "**D:\fonts\fot-newcinemaastd-d.uifn.new**"
+> FP.Fonts.Cryptor "**-e**"  "**D:\fonts\fot-newcinemaastd-d.uifn.dec**" "**D:\fonts\fot-newcinemaastd-d.uifn.new**"
 
 # Note
 > Just old stuff :)
